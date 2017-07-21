@@ -1,0 +1,4 @@
+*.nt
+stat.txt
+Example.ipynb
+.ipynb_checkpoints/
