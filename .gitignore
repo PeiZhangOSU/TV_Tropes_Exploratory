@@ -6,3 +6,4 @@ trope_graph.pkl
 internal_csv/
 small_test.txt
 json_output.txt
+local_json_output.txt
